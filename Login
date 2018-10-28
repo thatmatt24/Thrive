@@ -1,0 +1,10 @@
+# Login
+
+1. Just a simple login page for now, doesn't need to be anything fancy
+
+|---------------|---------|
+|Username       |         |
+|---------------|---------|
+|Password       |         |
+|---------------|---------|
+
